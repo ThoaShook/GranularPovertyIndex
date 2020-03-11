@@ -21,6 +21,8 @@
   - Created by United Nation Development Programme (UNDP)
   - Measures household and individually poverty levels in three criteria: health, education, and standard of living.
   - 1.3 billion people in countries around the world live in multidimensional Poverty.
+* Using Word Cloud extracting texts from those surveys to create a word cloud graph, to have a general concepts of what microloan were used for.
+  ![](Images/Loan_Used.png)
 * Three dimensions of Poverty (according to United Nations Development Programme (UNDP))
   - Health: 
       + Nutrition: Undernourished for both adult and children
