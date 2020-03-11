@@ -15,7 +15,7 @@
       + Identify poverty regions
       + Estimate the poverty of residents
  * Identify global poverty regions
- ![](Images/Amount_Loan_PerCountry)
+ ![](Images/Amount_Loan_PerCountry.png)
 * What is MPI ? 
   - Stands for Multidimensional Poverty Index
   - Created by United Nation Development Programme (UNDP)
