@@ -37,6 +37,9 @@
       + Assets: Not own more than one of these assets:
         - Radio, TV, telephone, computer, bicycle
         - Car or truck.
+* Identify regions with Multiple Poverty Index -MPI
+  ![](Images/Average_MPI_PerCountry.png)
+ 
 * Measuring Poverty Using Proxy Means Test (PMT):
  - What is Proxy Means Test (PMT)?
     - A test to estimate consumption when other income data isn't available or reliable. 
