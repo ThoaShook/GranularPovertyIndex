@@ -38,7 +38,7 @@
         - Radio, TV, telephone, computer, bicycle
         - Car or truck.
 * Identify regions with Multiple Poverty Index -MPI
-  ![](Images/Average_MPI_PerCountry.png)
+  ![](Images/Average_MPI_perCountry.png)
  
 * Measuring Poverty Using Proxy Means Test (PMT):
  - What is Proxy Means Test (PMT)?
