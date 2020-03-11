@@ -14,6 +14,8 @@
   - To help ease poverty around the world ,governments/non-profit organizations need localized models that:
       + Identify poverty regions
       + Estimate the poverty of residents
+ * Below is the global map that identifies the poverty regions around the world
+ 
 * What is MPI ? 
   - Stands for Multidimensional Poverty Index
   - Created by United Nation Development Programme (UNDP)
