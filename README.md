@@ -1,3 +1,8 @@
+
+                                            ![](Images/Amount_Loan_PerCountry.png)
+
+
+
 # Granular Poverty Index
 * Poverty Thresholds:
   - Living < $1.90/day in undeveloped countries
