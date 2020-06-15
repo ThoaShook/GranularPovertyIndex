@@ -1,7 +1,4 @@
-
-                                            ![](Images/Amount_Loan_PerCountry.png)
-
-
+![](Images/Amount_Loan_PerCountry.png)
 
 # Granular Poverty Index
 * Poverty Thresholds:
