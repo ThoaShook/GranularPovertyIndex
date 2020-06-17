@@ -55,12 +55,12 @@
 * PMT Model Algorithms:
 * Modeling:
 * Keys Takeaway
-    - P-value < 0.05 signifies the variable in the model has no correlation with MPI-clusters
-    - Changes in model variables are associated with changes in the MPI-clusters at the population level
-    - The coef value indicates how much the mean of MPI changes given one-unit shift in the variable while holding other variables constant. This allows assess the effect of each variable in isolation from the others
+    - P-value < 0.05 signifies the variable in the model has no correlation with MPI-clusters.
+    - Changes in model variables are associated with changes in the MPI-clusters at the population level.
+    - The coef value indicates how much the mean of MPI changes given one-unit shift in the variable while holding other variables constant. This allows assess the effect of each variable in isolation from the others.
     - When MPI _clusters increases, it will alert government/loan field-partners to allot assistance in that particular regions for that particular cause.
-    - When MPI of the regions decreases,  government/ agents may lift aids for that clusters
-    - Even if two regions have the same MPI, the causes for poverty are different, thus model should be modified accordingly
+    - When MPI of the regions decreases,  government/ agents may lift aids for that clusters.
+    - Even if two regions have the same MPI, the causes for poverty are different, thus model should be modified accordingly.
 * Conclusions:
  - Our Granular Poverty Index works well when testing data from Columbia, Kenya, Philippines, Haiti.
  - It works well with large dataset (Columbia)
@@ -69,8 +69,8 @@
  - The better the quality of the data, the better the results
 * What will I do next?
     - So far the models are built using demographic characteristics and take country/ clusters as input.
-    - If time is allowed, we should construct a mathematical formula to calculate distance from longitudes and latitudes within a cluster
-    - Combining  demographic and geographic data will give a profound comprehension  of the locations and the nature of needs poor people which is the subject of this research
+    - If time is allowed, we should construct a mathematical formula to calculate distance from longitudes and latitudes within a cluster.
+    - Combining  demographic and geographic data will give a profound comprehension  of the locations and the nature of needs of these residents which is the subject of this research.
 
 
 
